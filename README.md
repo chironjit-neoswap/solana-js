@@ -1,3 +1,7 @@
+## Note
+This version might have ongoing customisations for personal use
+
+
 # Metaplex JavaScript SDK
 
 This SDK helps developers get started with the on-chain tools provided by Metaplex. It focuses its API on common use-cases to provide a smooth developer experience whilst allowing third parties to extend its features via plugins.
