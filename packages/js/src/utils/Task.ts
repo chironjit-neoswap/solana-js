@@ -1,5 +1,5 @@
 import EventEmitterPackage from 'eventemitter3';
-import type EventEmitter from 'eventemitter3';
+import { EventEmitter } from "../types/Eventemitter"
 import { Disposable, DisposableScope } from './Disposable';
 import { TaskIsAlreadyRunningError } from '@/errors';
 
